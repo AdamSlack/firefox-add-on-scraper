@@ -1,6 +1,6 @@
 {
   "name": "firefox-add-on-scraper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Scraper for Firefox Add-ons written in Typescript",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
