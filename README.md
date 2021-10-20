@@ -16,6 +16,10 @@ There are currently 3 methods available for you:
 2. get
 3. download
 
+Search is probably the most useful one here, but the ability to get the details should you know it's slug and then download it if you have its url is convenient.
+
+This Repo also contains types for the `SearchResults` and a `SearchResult`. These can be seen in `./types.ts`
+
 ## search
 
 Searching can be done without providing any params. You will just get whatever mozilla decides to give you. Alternatively you could provide, any combination of the following params:
