@@ -1,0 +1,31 @@
+{
+  "name": "firefox-add-on-scraper",
+  "version": "0.0.1",
+  "description": "A Scraper for Firefox Add-ons written in Typescript",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamSlack/firefox-add-on-scraper.git"
+  },
+  "author": "Adam Slack",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdamSlack/firefox-add-on-scraper/issues"
+  },
+  "homepage": "https://github.com/AdamSlack/firefox-add-on-scraper#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.14",
+    "ts-node": "^10.3.0",
+    "typescript": "^4.4.4"
+  },
+  "dependencies": {
+    "axios": "^0.23.0",
+    "cheerio": "^1.0.0-rc.10"
+  }
+}

@@ -1,0 +1,1 @@
+export { firefoxAddOnClient } from './firefox-add-on-client';
