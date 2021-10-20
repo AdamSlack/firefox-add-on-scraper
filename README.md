@@ -1,5 +1,7 @@
 # firefox-add-on-scraper
 
+[![https://nodei.co/npm/firefox-add-on-scraper.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/firefox-add-on-scraper.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/firefox-add-on-scraper)
+
 This package is simple typescript package that makes it simple to search for, and download plugins from Firefox.
 
 To begin using this in your project you can run `npm i --save firefox-add-on-scraper`
